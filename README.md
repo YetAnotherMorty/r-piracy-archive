@@ -1,2 +1,2 @@
-# r-piracy-archive
-An archive of the /r/piracy megathread.
+# r/Piracy Megathread
+A Archive of the r/Piracy Megathread.
